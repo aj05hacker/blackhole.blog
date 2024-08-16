@@ -81,9 +81,9 @@ nav ul li a {
     color: #000000;
     font-size: 1rem;
     margin-left: 20px;
-    background-color: #21ddcd00;
+    background-color:aquamarine;
     border: solid 1px rgb(0, 0, 0);
-    width: 80%;
+    width:100%;
 }
 
 .menu-btn {
